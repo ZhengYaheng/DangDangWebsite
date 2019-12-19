@@ -1,0 +1,10 @@
+INFO 2019-12-13 12:11:24,499 browser_engine.py open_browser You had select FireFox browser.
+INFO 2019-12-13 12:11:24,499 browser_engine.py open_browser The test server url is: http://www.dangdang.com
+INFO 2019-12-13 12:11:28,881 browser_engine.py open_browser 打开火狐浏览器
+INFO 2019-12-13 12:11:30,938 browser_engine.py open_browser 打开网页：http://www.dangdang.com
+INFO 2019-12-13 12:11:36,222 browser_engine.py open_browser 网页最大化
+INFO 2019-12-13 12:11:36,343 browser_engine.py open_browser 等待10秒
+INFO 2019-12-13 12:11:41,837 base_page.py sleep 等待5秒钟
+INFO 2019-12-13 12:11:54,669 base_page.py sleep 等待10秒钟
+INFO 2019-12-13 12:11:59,935 base_page.py sleep 等待5秒钟
+INFO 2019-12-13 12:12:11,004 base_page.py sleep 等待5秒钟
